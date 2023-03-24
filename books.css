@@ -1,0 +1,13 @@
+.row{
+     height: 600px;
+     width: 100%;
+     background-color: brown;
+     display: flex;
+     justify-content: center;
+}
+.col{
+    height: 520px;
+    width: 320px;
+    background-color: burlywood;
+    margin: 30px 30px 70px;
+}
